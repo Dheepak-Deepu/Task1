@@ -1,5 +1,6 @@
 # Task1
-Local Network Port Scanning
+Learn to discover open ports on devices in your local network to
+understand network exposure.
 
 ## Tools Used
 - Nmap (TCP SYN Scan)
